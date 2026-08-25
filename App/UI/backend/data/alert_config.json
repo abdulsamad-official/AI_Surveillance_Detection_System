@@ -1,0 +1,32 @@
+{
+  "enabled_classes": {
+    "Falling": true,
+    "Fire": true,
+    "Gun": true,
+    "Knife": true,
+    "Normal": false,
+    "Smoke": true,
+    "Violence": true,
+    "Medical_Mask": false,
+    "Phone": false,
+    "Theft_Mask": true
+  },
+  "severity_map": {
+    "Falling": "Medium",
+    "Fire": "High",
+    "Gun": "High",
+    "Knife": "High",
+    "Normal": "Low",
+    "Smoke": "Medium",
+    "Violence": "High",
+    "Medical_Mask": "Low",
+    "Phone": "Low",
+    "Theft_Mask": "Medium"
+  },
+  "sound_enabled": true,
+  "email_enabled": false,
+  "email_address": "",
+  "telegram_enabled": false,
+  "telegram_token": "",
+  "telegram_chat_id": ""
+}

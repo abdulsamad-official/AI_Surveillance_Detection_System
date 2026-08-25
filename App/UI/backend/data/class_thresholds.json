@@ -1,0 +1,12 @@
+{
+  "Normal": 0.5,
+  "Phone": 0.5,
+  "Medical_Mask": 0.5,
+  "Fire": 0.35,
+  "Smoke": 0.5,
+  "Gun": 0.7,
+  "Knife": 0.5,
+  "Falling": 0.5,
+  "Violence": 0.6,
+  "Theft_Mask": 0.5
+}

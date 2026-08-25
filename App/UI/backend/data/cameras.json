@@ -1,0 +1,24 @@
+{
+  "a2d863e4": {
+    "id": "a2d863e4",
+    "name": "main",
+    "source": "C:\\Users\\Sami\\Desktop\\Samad Files\\University\\FYP\\Project\\final_system\\UI\\backend\\..\\recordings\\uploads\\3725b869_2(3).mp4",
+    "location": "Unknown",
+    "status": "online",
+    "added_at": "2026-07-21 10:56:48",
+    "detections": 209,
+    "last_class": "Violence",
+    "last_conf": 0.64
+  },
+  "5b2d2057": {
+    "id": "5b2d2057",
+    "name": "main",
+    "source": "0",
+    "location": "Unknown",
+    "status": "online",
+    "added_at": "2026-07-21 11:02:48",
+    "detections": 122,
+    "last_class": "Normal",
+    "last_conf": 0.76
+  }
+}

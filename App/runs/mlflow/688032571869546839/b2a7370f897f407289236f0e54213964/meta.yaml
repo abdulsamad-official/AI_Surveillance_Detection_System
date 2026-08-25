@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Sami/Desktop/Samad Files/FYP/Project/final_system/runs/mlflow/688032571869546839/b2a7370f897f407289236f0e54213964/artifacts
+end_time: 1779789920392
+entry_point_name: ''
+experiment_id: '688032571869546839'
+lifecycle_stage: active
+run_id: b2a7370f897f407289236f0e54213964
+run_name: train
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779789624430
+status: 3
+tags: []
+user_id: Sami

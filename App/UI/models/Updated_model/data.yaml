@@ -1,0 +1,18 @@
+
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 10
+
+names:
+  0: Falling
+  1: Gun
+  2: Knife
+  3: Normal
+  4: Violence
+  5: Medical_Mask
+  6: Phone
+  7: Theft_Mask
+  8: Fire
+  9: Smoke

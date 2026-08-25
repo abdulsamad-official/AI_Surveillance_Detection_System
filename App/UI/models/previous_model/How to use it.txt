@@ -1,0 +1,7 @@
+In the model change the classes sequence and apply this: 
+_classes = [
+    "Falling", "Fire", "Gun", "Knife", "Normal",
+    "Smoke", "Violence", "Medical_Mask", "Phone", "Theft_Mask"
+]
+
+This is the previous dataset model

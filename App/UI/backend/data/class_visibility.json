@@ -1,0 +1,12 @@
+{
+  "Normal": true,
+  "Phone": true,
+  "Medical_Mask": false,
+  "Fire": true,
+  "Smoke": false,
+  "Gun": true,
+  "Knife": true,
+  "Falling": true,
+  "Violence": true,
+  "Theft_Mask": true
+}

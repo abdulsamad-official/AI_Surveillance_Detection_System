@@ -1,0 +1,9 @@
+{
+  "pre_event_minutes": 2,
+  "post_event_minutes": 2,
+  "segment_minutes": 10,
+  "confidence_threshold": 0.5,
+  "detection_timeout": 10,
+  "night_vision_enabled": true,
+  "night_vision_auto": true
+}
