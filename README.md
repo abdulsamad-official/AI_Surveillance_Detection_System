@@ -175,7 +175,7 @@ npm run dev   # or npm start
 ## 📸 Screenshots/Demo
 
 ### 1. Dashboard Overview
-![Dashboard Overview](https://z-cdn-media.chatglm.cn/files/3a54d0b7-31a1-4116-be69-93a4ca5aee32.png?auth_key=1887654413-75bf4cc45e5d420195c91126e4c63065-0-f9ce9a1c3bb354dc1d7f8ca62e23daf7)
+![Dashboard Overview](Test/Add_camera.png)
 *The integrated React dashboard showing live camera status, detection summaries, and alert panels in a clean, dark-themed UI.*
 
 ### 2. Multi-Camera Live Monitoring
