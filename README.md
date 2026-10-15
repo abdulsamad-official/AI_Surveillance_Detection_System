@@ -179,15 +179,15 @@ npm run dev   # or npm start
 *The integrated React dashboard showing live camera status, detection summaries, and alert panels in a clean, dark-themed UI.*
 
 ### 2. Multi-Camera Live Monitoring
-![Multi-Camera Monitoring](https://z-cdn-media.chatglm.cn/files/3c9dc313-74a0-4e93-93da-0149ba35d5aa.png?auth_key=1887654413-43dac1053d9c404998fd4e5a8e837b1a-0-23c47e824d2e600b3f886777b4fd15b8)
+![Multi-Camera Monitoring](Test/Dashboard.png)
 *System actively monitoring multiple camera feeds (main, roadside, left_Corner) simultaneously, with active alerts and comprehensive detection statistics.*
 
 ### 3. Real-Time Detection Evidence (Fire & Knife)
-![Detection Evidence](https://z-cdn-media.chatglm.cn/files/df3b3e88-4d9f-4529-a8a8-71b12aa77c61.png?auth_key=1887654413-e1b3e36386694165aefdfcd6f1fded09-0-fee890cffbdc18b896b08c42ad0911be)
+![Detection Evidence](Test/Knife_fire_Detection.png)
 *YOLO11 drawing bounding boxes for Fire (0.54 confidence) and Knife (0.67 confidence) in real-time.*
 
 ### 4. Add Camera Dialog
-![Add Camera Dialog](https://z-cdn-media.chatglm.cn/files/7d859f13-5c5f-4986-acd8-db17760125f2.png?auth_key=1887654413-60d0012ac39e48b4b99ceda48279ccd2-0-2402f199ee46d1543f67099891302f0e)
+![Add Camera Dialog](Test/multicamera.png)
 *Source selection, webcam integration, and validation interface for adding new cameras to the monitoring grid.*
 
 ---
